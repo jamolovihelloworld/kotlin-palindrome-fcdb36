@@ -1,0 +1,1 @@
+fun main(){val s="level";println(s==s.reversed())}
